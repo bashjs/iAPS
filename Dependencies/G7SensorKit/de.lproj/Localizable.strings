@@ -2,7 +2,7 @@
 "Dexcom G7" = "Dexcom G7";
 
 /* Descriptive text on G7StartupView */
-"FreeAPS X can read G7 CGM data, but you must still use the Dexcom G7 App for pairing, calibration, and other sensor management." = "FreeAPS X can read G7 CGM data, but you must still use the Dexcom G7 App for pairing, calibration, and other sensor management.";
+"FreeAPS X can read G7 CGM data, but you must still use the Dexcom G7 App for pairing, calibration, and other sensor management." = "FreeAPS X kann G7 CGM Daten lesen. Sie müssen die Dexcom G7 App zum Einrichten, Kalibrierung und andere Sensorverwaltung verwenden.";
 
 /* Button title for starting setup */
 "Continue" = "Fortsetzen";
@@ -11,13 +11,13 @@
 "Cancel" = "Abbrechen";
 
 /* Error description for unreliable state */
-"Glucose data is unavailable" = "Glucose data is unavailable";
+"Glucose data is unavailable" = "Glukosedaten sind nicht verfügbar";
 
 /* The description of sensor algorithm state when sensor is ok. */
-"Sensor is OK" = "Sensor is OK";
+"Sensor is OK" = "Sensor ist OK";
 
 /* The description of sensor algorithm state when sensor is stopped." */
-"Sensor is stopped" = "Sensor is stopped";
+"Sensor is stopped" = "Sensor ist gestoppt";
 
 /* The description of sensor algorithm state when sensor is warming up. */
 "Sensor is warming up" = "Sensor ist in der Aufwärmphase";
@@ -29,7 +29,7 @@
 "Sensor failed" = "Sensorfehler";
 
 /* The description of sensor algorithm state when raw value is unknown. (1: missing data details) */
-"Sensor is in unknown state %1$d" = "Sensor is in unknown state %1$d";
+"Sensor is in unknown state %1$d" = "Sensor hat einen unbekannten Status %1$d";
 
 /* title for g7 settings row showing sensor start time */
 "Sensor Start" = "Sensorstart";
@@ -38,12 +38,12 @@
 "Sensor Expiration" = "Sensor Ablaufdatum";
 
 /* title for g7 settings row showing sensor grace period end time */
-"Grace Period End" = "Grace Period End";
+"Grace Period End" = "Toleranzzeit Ende";
 
 /* Field label */
 "Glucose" = "Blutzucker";
 
-"Last Reading" = "Last Reading";
+"Last Reading" = "Letzter Wert";
 
 "Time" = "Uhrzeit";
 
@@ -55,7 +55,7 @@
 "Name" = "Name";
 
 /* title for g7 settings connection status when scanning */
-"Scanning" = "Scanning";
+"Scanning" = "Scannt";
 
 /* title for g7 settings connection status when connected */
 "Connected" = "Verbunden";
@@ -70,7 +70,7 @@
 "Configuration" = "Konfiguration";
 
 /* title for g7 config settings to upload readings */
-"Upload Readings" = "Upload Readings";
+"Upload Readings" = "BZ hochladen";
 
 /* Button */
 "Scan for new sensor" = "Nach neuen Sensoren suchen";
@@ -81,16 +81,16 @@
 /* No glucose value representation (3 dashes for mg/dL) */
 "– – –" = "– – –";
 /* String displayed instead of a glucose value below the CGM range */
-"LOW" = "LOW";
+"LOW" = "NIEDRIG";
 
 /* String displayed instead of a glucose value above the CGM range */
-"HIGH" = "HIGH";
+"HIGH" = "HOCH";
 
 /* Format string for glucose trend per minute. (1: glucose value and unit) */
-"%@/min" = "%@/min";
+"%@/min" = "%@min";
 
 /* G7 Progress bar label when searching for sensor */
-"Searching for sensor" = "Searching for sensor";
+"Searching for sensor" = "Suche nach einem Sensor";
 
 /* G7 Progress bar label when sensor expired */
 "Sensor expired" = "Sensor abgelaufen";
@@ -108,22 +108,22 @@
 "Sensor expires" = "Sensor abgelaufen";
 
 /* G7 Progress bar label when sensor grace period progress showing */
-"Grace period remaining" = "Grace period remaining";
+"Grace period remaining" = "Toleranzzeit Ende";
 
 /* G7 Status highlight text for searching for sensor */
-"Searching for\nSensor" = "Searching for\nSensor";
+"Searching for\nSensor" = "Suche nach\nSensor";
 
 /* G7 Status highlight text for sensor expired */
-"Sensor\nExpired" = "Sensor\nExpired";
+"Sensor\nExpired" = "Sensor\nabgelaufen";
 
 /* G7 Status highlight text for signal loss */
-"Sensor\nFailed" = "Sensor\nFailed";
+"Sensor\nFailed" = "Sensor\nfehlgeschlagen";
 
 /* G7 Status highlight text for signal loss */
-"Signal\nLoss" = "Signal\nLoss";
+"Signal\nLoss" = "Signalverlust";
 
 /*G7 Status highlight text for sensor error */
-"Sensor\nIssue" = "Sensor\nIssue";
+"Sensor\nIssue" = "Sensor\nFehler";
 
 /* G7 Status highlight text for sensor warmup */
-"Sensor\nWarmup" = "Sensor\nWarmup";
+"Sensor\nWarmup" = "Sensor\nAufwärmen";

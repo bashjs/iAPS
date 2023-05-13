@@ -102,7 +102,7 @@
 "Firmware" = "Firmware";
 
 /* The title of the cell showing the pump firmware version */
-"Firmware Version" = "Firmware Version";
+"Firmware Version" = "Versione Firmware";
 
 /* The title of the command to get pump model */
 "Get Pump Model" = "Ottieni Modello del Microinfusore";
@@ -117,7 +117,7 @@
 "Last Awake" = "Ultimo risveglio";
 
 /* The title of the cell describing no radio awake data */
-"Listening Off" = "Ricevendo";
+"Listening Off" = "Ascolto Disattivato";
 
 /* The title of the command to pair with mysentry */
 "MySentry Pair" = "Accoppia MySentry";
@@ -132,7 +132,7 @@
 "On Idle" = "Inattivo";
 
 /* Pump find device instruction */
-"On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device" = "On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device";
+"On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device" = "Sulla pompa, vai alla schermata Trova dispositivo e seleziona \"Trova dispositivo\".\n\nMenu principale >\nUtilities >\nConnetti Dispositivi >\nAltri Dispositivi >\nSu >\nTrova Dispositivi";
 
 /* The title text for the preferred insulin data source config */
 "Preferred Data Source" = "Fonte Dati";
@@ -166,7 +166,7 @@
 "Reading pump status…" = "Lettura stato microinfusore…";
 
 /* The title of the cell showing the pump region */
-"Region" = "Region";
+"Region" = "Paese";
 
 /* Button title to retry sentry setup */
 "Retry" = "Riprova";
